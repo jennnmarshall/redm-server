@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Jenn_Shep",
+    "master": true,
+    "password_hash": "$2a$11$H5VHQeoNWQZwJDRNx4EX0.OpQlMnlP1cwma1ip/pYagBYH2qrVDWy",
+    "providers": {
+      "citizenfx": {
+        "id": "Jenn_Shep",
+        "identifier": "fivem:8896298",
+        "data": {
+          "sub": "d02ac9b11ee45f99b4ec444d4dbf2dc9",
+          "nameid": "https://forum.cfx.re/internal/user/8896298",
+          "name": "Jenn_Shep",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/jenn_shep/256/3174490_2.png",
+          "profile": "https://forum.cfx.re/u/Jenn_Shep"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
