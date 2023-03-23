@@ -4,7 +4,7 @@ Config = {
   UseMetabolism = true, -- Experimental Function
 
   -- Status amount rate drop
-  EveryTimeStatusDown = 3600, --  3,6 seconds
+  EveryTimeStatusDown = 10000, --  10 seconds
   HowAmountThirstWhileRunning = 3, -- Example drop 3 every 3,6 seconds -- Max value 1000
   HowAmountHungerWhileRunning = 2,
   HowAmountThirst = 2,
@@ -12,11 +12,11 @@ Config = {
   HowAmountMetabolismWhileRunning = 4,
   HowAmountMetabolism = 2,
 
-  FirstHungerStatus = 1000, -- 100%
-  FirstThirstStatus = 1000, -- 100%
+  FirstHungerStatus = 5000, -- 100%
+  FirstThirstStatus = 5000, -- 100%
 
-  OnRespawnHungerStatus = 1000,
-  OnRespawnThirstStatus = 1000,
+  OnRespawnHungerStatus = 5000,
+  OnRespawnThirstStatus = 5000,
 
   FirstMetabolismStatus = 0,
 

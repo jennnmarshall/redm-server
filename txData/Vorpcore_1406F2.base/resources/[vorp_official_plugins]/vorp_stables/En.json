@@ -22,13 +22,13 @@
     "SubTitleMenuCarts": "Manage your carriages",
 
     "subTitleConfirmBuy": "The price of {0} is {1}$",
-    "ConfirmBuyButton": "Buy for {0}$",
+    "ConfirmBuyButton": "Buy for ${0}",
     "ConfirmBuyButtonDesc": "Buy horse",
     "CancelBuyButton": "Cancel purchase",
     "CancelBuyButtonDesc": "Go back",
 
-    "ButtonCart": "{0} for {1}$",
-    "ConfirmBuyComplements": "Buy complements for {0}$",
+    "ButtonCart": "{0} for ${1}",
+    "ConfirmBuyComplements": "Buy complements for ${0}",
 
     "StableIsFull": "Your stable is full, you can not buy it until you have a free slot",
 
@@ -37,8 +37,8 @@
     "InputCartNameButton": "Buy Carriage",
     "InputCartNamePlaceholder": "Choose the name for your carriage",
 
-    "SuccessfulBuyComp": "You have bought the complement for {0}$",
-    "SuccessfulBuyHorse": "You have bought {0} for {1}$",
+    "SuccessfulBuyComp": "You have bought the complement for ${0}",
+    "SuccessfulBuyHorse": "You have bought {0} for ${1}",
     "NoMoney": "You do not have enough money",
     "NoDefaultHorses": "You do not have any default horse",
     "NoDefaultCarts": "You do not have any default carriage",
@@ -57,7 +57,7 @@
     "SubMenuBuyComplements": "Complements Dealer",
     "ButtonSetDefaultHorse": "Set it to default",
     "PriceComplements": "Price: ",
-    "BuyButtonComplements": "Yes, Buy - {0} for {1}$",
+    "BuyButtonComplements": "Yes, Buy - {0} for ${1}",
     "YouBuyedThisComp": "You already bought it",
     "SetThisComp": "Equip {0} to this horse",
 
@@ -196,7 +196,7 @@
     "A_C_HORSE_NORFOLKROADSTER_DAPPLEDBUCKSKIN": "Dapple Buckskin",
     "A_C_HORSE_NORFOLKROADSTER_SPOTTEDTRICOLOR": "Spotted Tricolor",
 
-    "A_C_HorseMulePainted_01": "Zebra",
+    // "A_C_HorseMulePainted_01": "Zebra",
 
     "A_C_HorseMule_01": "Mule",
 

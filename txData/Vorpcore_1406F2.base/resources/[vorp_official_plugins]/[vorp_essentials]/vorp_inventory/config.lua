@@ -70,7 +70,7 @@ Config = {
   -- NEED TO TEST
   DropOnRespawn = {
     AllMoney       = false,
-    PartMoney      = false,
+    PartMoney      = true,
     PartPercentage = 25,
     Gold           = false, -- TRUE ONLY IF UseGoldItem = true
     Weapons        = false,
@@ -80,7 +80,7 @@ Config = {
   -- HOW MANY WEAPONS AND ITEMS ALLOWED PER PLAYER
   MaxItemsInInventory = {
     Weapons = 6,
-    Items = 200,
+    Items = 500,
   },
 
 
